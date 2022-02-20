@@ -1,4 +1,4 @@
-# MPI_parallelization
+# Message Passing Interface (MPI) parallelization
 
 MPI parallelization for Sieve Of Eratosthenes algorithm. 
 
